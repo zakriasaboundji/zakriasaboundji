@@ -1,6 +1,31 @@
-- 👋 Hi, I’m @zakriasaboundji
-- 👀 I’m astudent
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>test</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
 
-<!---
-i am Zakariasaboundji i am a student of programming i have 18 years old and i am from morocco
---->
+  <body>
+    <header>
+      <nav>
+        <a class="logo" href="index.html">ZSAB</a>
+        <div class="mobile-menu">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+        <ul class="nav-list">
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="#">About Me</a></li>
+          <li><a href="#">Contact Me</a></li>
+        </ul>
+        <script src="index.js"></script>
+      </nav>
+    </header>
+    <main></main>
+   
+  </body>
+</html>
